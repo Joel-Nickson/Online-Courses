@@ -1,0 +1,7 @@
+1. Perculation=92
+2. Queues=96
+3. Collinear=91
+4. 8-Puzzle=99
+5. kdtree=97
+
+https://github.com/Joel-Nickson/Courses-Online/tree/master/Algo1
